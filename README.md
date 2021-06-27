@@ -1,5 +1,3 @@
-# Isten_igazsaga_ordog_hazugsaga
-
 # Isten igazsága az ördög hazugságaira
 ## Előszó
 
